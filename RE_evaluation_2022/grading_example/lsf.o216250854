@@ -1,0 +1,58 @@
+Sender: LSF System <lsfadmin@eu-g1-033-3>
+Subject: Job 216250854: <matlab -nodisplay -singleCompThread -r evaluate_ekf> in cluster <euler> Done
+
+Job <matlab -nodisplay -singleCompThread -r evaluate_ekf> was submitted from host <eu-login-40> by user <noabauma> in cluster <euler> at Thu Apr 28 14:58:06 2022
+Job was executed on host(s) <48*eu-g1-033-3>, in queue <normal.4h>, as user <noabauma> in cluster <euler> at Thu Apr 28 15:03:07 2022
+</cluster/home/noabauma> was used as the home directory.
+</cluster/scratch/noabauma/RE_evaluation_2022> was used as the working directory.
+Started at Thu Apr 28 15:03:07 2022
+Terminated at Thu Apr 28 15:04:45 2022
+Results reported at Thu Apr 28 15:04:45 2022
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+matlab -nodisplay -singleCompThread -r evaluate_ekf
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   2449.00 sec.
+    Max Memory :                                 44955 MB
+    Average Memory :                             12957.60 MB
+    Total Requested Memory :                     122880.00 MB
+    Delta Memory :                               77925.00 MB
+    Max Swap :                                   -
+    Max Processes :                              51
+    Max Threads :                                4081
+    Run time :                                   122 sec.
+    Turnaround time :                            399 sec.
+
+The output (if any) follows:
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+                  R2019b (9.7.0.1190202) 64-bit (glnxa64)
+                              August 21, 2019
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Starting parallel pool (parpool) using the 'local' profile ...
+Connected to the parallel pool (number of workers: 48).
+Start evaluation #1: Solution1
+Variation 1
+Variation 2
+Variation 3
+Start evaluation #2: Solution2
+Variation 1
+Variation 2
+Variation 3
+[Warning: Objects of class 'parallel.cluster.Local' cannot be saved to MAT
+files.] 
+[Warning: Objects of class 'parallel.FevalFuture' cannot be saved to MAT files.] 

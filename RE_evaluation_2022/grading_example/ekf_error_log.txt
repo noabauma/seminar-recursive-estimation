@@ -1,0 +1,2700 @@
+Submission nr: 3
+Submission name: name
+Iteration number: 1
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 2
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 3
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 4
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 5
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 6
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 7
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 8
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 9
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 10
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 11
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 12
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 13
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 14
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 15
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 16
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 17
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 18
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 19
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 20
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 21
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 22
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 23
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 24
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 25
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 26
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 27
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 28
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 29
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 30
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 31
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 32
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 33
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 34
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 35
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 36
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 37
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 38
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 39
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 40
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 41
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 42
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 43
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 44
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 45
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 46
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 47
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 48
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 49
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 50
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 51
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 52
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 53
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 54
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 55
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 56
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 57
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 58
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 59
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 60
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 61
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 62
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 63
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 64
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 65
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 66
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 67
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 68
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 69
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 70
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 71
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 72
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 73
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 74
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 75
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 76
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 77
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 78
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 79
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 80
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 81
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 82
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 83
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 84
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 85
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 86
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 87
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 88
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 89
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 90
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 91
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 92
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 93
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 94
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 95
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 96
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 97
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 98
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 99
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 100
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 1
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 2
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 3
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 4
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 5
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 6
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 7
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 8
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 9
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 10
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 11
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 12
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 13
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 14
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 15
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 16
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 17
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 18
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 19
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 20
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 21
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 22
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 23
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 24
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 25
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 26
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 27
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 28
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 29
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 30
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 31
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 32
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 33
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 34
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 35
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 36
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 37
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 38
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 39
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 40
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 41
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 42
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 43
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 44
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 45
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 46
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 47
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 48
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 49
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 50
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 51
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 52
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 53
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 54
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 55
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 56
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 57
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 58
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 59
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 60
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 61
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 62
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 63
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 64
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 65
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 66
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 67
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 68
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 69
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 70
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 71
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 72
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 73
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 74
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 75
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 76
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 77
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 78
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 79
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 80
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 81
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 82
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 83
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 84
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 85
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 86
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 87
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 88
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 89
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 90
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 91
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 92
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 93
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 94
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 95
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 96
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 97
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 98
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 99
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 100
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 1
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 2
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 3
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 4
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 5
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 6
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 7
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 8
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 9
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 10
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 11
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 12
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 13
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 14
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 15
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 16
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 17
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 18
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 19
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 20
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 21
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 22
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 23
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 24
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 25
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 26
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 27
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 28
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 29
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 30
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 31
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 32
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 33
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 34
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 35
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 36
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 37
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 38
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 39
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 40
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 41
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 42
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 43
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 44
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 45
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 46
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 47
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 48
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 49
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 50
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 51
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 52
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 53
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 54
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 55
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 56
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 57
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 58
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 59
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 60
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 61
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 62
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 63
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 64
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 65
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 66
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 67
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 68
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 69
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 70
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 71
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 72
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 73
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 74
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 75
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 76
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 77
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 78
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 79
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 80
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 81
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 82
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 83
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 84
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 85
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 86
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 87
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 88
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 89
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 90
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 91
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 92
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 93
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 94
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 95
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 96
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 97
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 98
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 99
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 100
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 57)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+

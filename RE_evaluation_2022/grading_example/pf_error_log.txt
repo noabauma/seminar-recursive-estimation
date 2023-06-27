@@ -1,0 +1,1260 @@
+Submission nr: 1
+Submission name: Solution1
+Iteration number: 1
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 1
+Submission name: Solution1
+Iteration number: 2
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 1
+Submission name: Solution1
+Iteration number: 3
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 1
+Submission name: Solution1
+Iteration number: 4
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 1
+Submission name: Solution1
+Iteration number: 5
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 1
+Submission name: Solution1
+Iteration number: 6
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 1
+Submission name: Solution1
+Iteration number: 7
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 1
+Submission name: Solution1
+Iteration number: 8
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 1
+Submission name: Solution1
+Iteration number: 9
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 1
+Submission name: Solution1
+Iteration number: 10
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 1
+Submission name: Solution1
+Iteration number: 11
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 1
+Submission name: Solution1
+Iteration number: 12
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 1
+Submission name: Solution1
+Iteration number: 13
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 1
+Submission name: Solution1
+Iteration number: 14
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 1
+Submission name: Solution1
+Iteration number: 15
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 1
+Submission name: Solution1
+Iteration number: 16
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 1
+Submission name: Solution1
+Iteration number: 17
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 1
+Submission name: Solution1
+Iteration number: 18
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 1
+Submission name: Solution1
+Iteration number: 19
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 1
+Submission name: Solution1
+Iteration number: 20
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 1
+Submission name: Solution1
+Iteration number: 1
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 1
+Submission name: Solution1
+Iteration number: 2
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 1
+Submission name: Solution1
+Iteration number: 3
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 1
+Submission name: Solution1
+Iteration number: 4
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 1
+Submission name: Solution1
+Iteration number: 5
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 1
+Submission name: Solution1
+Iteration number: 6
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 1
+Submission name: Solution1
+Iteration number: 7
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 1
+Submission name: Solution1
+Iteration number: 8
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 1
+Submission name: Solution1
+Iteration number: 9
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 1
+Submission name: Solution1
+Iteration number: 10
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 1
+Submission name: Solution1
+Iteration number: 11
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 1
+Submission name: Solution1
+Iteration number: 12
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 1
+Submission name: Solution1
+Iteration number: 13
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 1
+Submission name: Solution1
+Iteration number: 14
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 1
+Submission name: Solution1
+Iteration number: 15
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 1
+Submission name: Solution1
+Iteration number: 16
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 1
+Submission name: Solution1
+Iteration number: 17
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 1
+Submission name: Solution1
+Iteration number: 18
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 1
+Submission name: Solution1
+Iteration number: 19
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 1
+Submission name: Solution1
+Iteration number: 20
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 2
+Submission name: Solution2
+Iteration number: 1
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 2
+Submission name: Solution2
+Iteration number: 2
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 2
+Submission name: Solution2
+Iteration number: 3
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 2
+Submission name: Solution2
+Iteration number: 4
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 2
+Submission name: Solution2
+Iteration number: 5
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 2
+Submission name: Solution2
+Iteration number: 6
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 2
+Submission name: Solution2
+Iteration number: 7
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 2
+Submission name: Solution2
+Iteration number: 8
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 2
+Submission name: Solution2
+Iteration number: 9
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 2
+Submission name: Solution2
+Iteration number: 10
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 2
+Submission name: Solution2
+Iteration number: 11
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 2
+Submission name: Solution2
+Iteration number: 12
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 2
+Submission name: Solution2
+Iteration number: 13
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 2
+Submission name: Solution2
+Iteration number: 14
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 2
+Submission name: Solution2
+Iteration number: 15
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 2
+Submission name: Solution2
+Iteration number: 16
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 2
+Submission name: Solution2
+Iteration number: 17
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 2
+Submission name: Solution2
+Iteration number: 18
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 2
+Submission name: Solution2
+Iteration number: 19
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 2
+Submission name: Solution2
+Iteration number: 20
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 2
+Submission name: Solution2
+Iteration number: 1
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 2
+Submission name: Solution2
+Iteration number: 2
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 2
+Submission name: Solution2
+Iteration number: 3
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 2
+Submission name: Solution2
+Iteration number: 4
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 2
+Submission name: Solution2
+Iteration number: 5
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 2
+Submission name: Solution2
+Iteration number: 6
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 2
+Submission name: Solution2
+Iteration number: 7
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 2
+Submission name: Solution2
+Iteration number: 8
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 2
+Submission name: Solution2
+Iteration number: 9
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 2
+Submission name: Solution2
+Iteration number: 10
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 2
+Submission name: Solution2
+Iteration number: 11
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 2
+Submission name: Solution2
+Iteration number: 12
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 2
+Submission name: Solution2
+Iteration number: 13
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 2
+Submission name: Solution2
+Iteration number: 14
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 2
+Submission name: Solution2
+Iteration number: 15
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 2
+Submission name: Solution2
+Iteration number: 16
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 2
+Submission name: Solution2
+Iteration number: 17
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 2
+Submission name: Solution2
+Iteration number: 18
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 2
+Submission name: Solution2
+Iteration number: 19
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 2
+Submission name: Solution2
+Iteration number: 20
+Error message: Error using Simulator (line 20)
+Reference to non-existent field 'm'.
+
+Error in run_estimator (line 63)
+[km, state, input, sense] = Simulator( simConst );
+
+Submission nr: 3
+Submission name: name
+Iteration number: 1
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 2
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 3
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 4
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 5
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 6
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 7
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 8
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 9
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 10
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 11
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 12
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 13
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 14
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 15
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 16
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 17
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 18
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 19
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 20
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 1
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 2
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 3
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 4
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 5
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 6
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 7
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 8
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 9
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 10
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 11
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 12
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 13
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 14
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 15
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 16
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 17
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 18
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 19
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 20
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 1
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 2
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 3
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 4
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 5
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 6
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 7
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 8
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 9
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 10
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 11
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 12
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 13
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 14
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 15
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 16
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 17
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 18
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 19
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
+Submission nr: 3
+Submission name: name
+Iteration number: 20
+Error message: Error using matlab.codetools.requiredFilesAndProducts (line 91)
+File, function or class "Estimator" may not exist. Neither WHICH nor EXIST could find an exact, case-sensitive match. Please check the spelling of the name, and that any required directories are on the MATLAB path.
+
+Error in run_estimator (line 50)
+[~, deps] = matlab.codetools.requiredFilesAndProducts('Estimator');
+
